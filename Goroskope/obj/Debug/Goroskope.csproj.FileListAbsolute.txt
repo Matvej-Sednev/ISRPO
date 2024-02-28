@@ -1,0 +1,71 @@
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\bin\Debug\Goroskope.exe.config
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\bin\Debug\Goroskope.exe
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\bin\Debug\Goroskope.pdb
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\obj\Debug\Goroskope.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\obj\Debug\Goroskope.Form1.resources
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\obj\Debug\Goroskope.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\obj\Debug\Goroskope.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\obj\Debug\Goroskope.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\obj\Debug\Goroskope.exe
+C:\Users\Lenovo\Desktop\Юлик мдк 01 01\Goroskope\Goroskope\obj\Debug\Goroskope.pdb
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\bin\Debug\Goroskope.exe.config
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\bin\Debug\Goroskope.exe
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\bin\Debug\Goroskope.pdb
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.Form1.resources
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.Properties.Resources.resources
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.exe
+C:\Users\stud\Desktop\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.pdb
+D:\Гороскоп Шабанов Юлиан\Goroskope\bin\Debug\Goroskope.exe.config
+D:\Гороскоп Шабанов Юлиан\Goroskope\bin\Debug\Goroskope.exe
+D:\Гороскоп Шабанов Юлиан\Goroskope\bin\Debug\Goroskope.pdb
+D:\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.csproj.AssemblyReference.cache
+D:\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.Form1.resources
+D:\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.Properties.Resources.resources
+D:\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.csproj.GenerateResource.cache
+D:\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.csproj.CoreCompileInputs.cache
+D:\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.exe
+D:\Гороскоп Шабанов Юлиан\Goroskope\obj\Debug\Goroskope.pdb
+D:\Гороскоп\Goroskope\bin\Debug\Goroskope.exe.config
+D:\Гороскоп\Goroskope\bin\Debug\Goroskope.exe
+D:\Гороскоп\Goroskope\bin\Debug\Goroskope.pdb
+D:\Гороскоп\Goroskope\obj\Debug\Goroskope.csproj.AssemblyReference.cache
+D:\Гороскоп\Goroskope\obj\Debug\Goroskope.Form1.resources
+D:\Гороскоп\Goroskope\obj\Debug\Goroskope.Properties.Resources.resources
+D:\Гороскоп\Goroskope\obj\Debug\Goroskope.csproj.GenerateResource.cache
+D:\Гороскоп\Goroskope\obj\Debug\Goroskope.csproj.CoreCompileInputs.cache
+D:\Гороскоп\Goroskope\obj\Debug\Goroskope.exe
+D:\Гороскоп\Goroskope\obj\Debug\Goroskope.pdb
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.exe.config
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.exe
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.pdb
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.AssemblyReference.cache
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.Form1.resources
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.Properties.Resources.resources
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.GenerateResource.cache
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.CoreCompileInputs.cache
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.exe
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.pdb
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.exe.config
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.exe
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.pdb
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.AssemblyReference.cache
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.Form1.resources
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.Properties.Resources.resources
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.GenerateResource.cache
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.CoreCompileInputs.cache
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.exe
+C:\Users\stud\Documents\Селивёрстов 225\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.pdb
+D:\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.exe.config
+D:\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.exe
+D:\Гороскоп и Биоритмы\Goroskope\bin\Debug\Goroskope.pdb
+D:\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.AssemblyReference.cache
+D:\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.Form1.resources
+D:\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.Properties.Resources.resources
+D:\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.GenerateResource.cache
+D:\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.csproj.CoreCompileInputs.cache
+D:\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.exe
+D:\Гороскоп и Биоритмы\Goroskope\obj\Debug\Goroskope.pdb

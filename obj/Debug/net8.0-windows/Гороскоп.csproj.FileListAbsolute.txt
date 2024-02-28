@@ -1,0 +1,17 @@
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.exe
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.deps.json
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.runtimeconfig.json
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.dll
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.pdb
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.Form1.resources
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.Properties.Resources.resources
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.csproj.GenerateResource.cache
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.AssemblyInfoInputs.cache
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.AssemblyInfo.cs
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.csproj.CoreCompileInputs.cache
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.dll
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\refint\Гороскоп.dll
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.pdb
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.genruntimeconfig.cache
+C:\Users\Artom\Desktop\Селивёрстов225гр\визуальные\Гороскоп\obj\Debug\net8.0-windows\ref\Гороскоп.dll
